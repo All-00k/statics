@@ -1,4 +1,4 @@
-expalaination: (moments describe how something is distributed relative to a center)
+explaination: (moments describe how something is distributed relative to a center)
 
 
 
@@ -9,13 +9,13 @@ expalaination: (moments describe how something is distributed relative to a cent
 
  # MOMENTS ABOUT ORIGIN
   ----------------------
-------------->First moment (mean): Tells the central value of the data.
+------------->First moment about origin (mean): Tells the central value of the data.
 
-------------->Second moment (variance): Tells the spread or dispersion from the mean.
+------------->Second moment about mean(variance): Tells the spread or dispersion from the mean.
 
-------------->Third moment (skewness): Tells the asymmetry of the data.
+------------->Third moment about mean(skewness): Tells the asymmetry of the data.
 
-------------->Fourth moment (kurtosis): Tells the "tailedness" (how heavy or light the tails are).
+------------->Fourth moment about mean(kurtosis): Tells the "tailedness" (how heavy or light the tails are) or we can say kurotsis tells the degree of flatness.
 
 
 # moments are calculated with respect to:
