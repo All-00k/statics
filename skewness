@@ -18,10 +18,14 @@ Skewness tells you how the data leans, not just where it sits. It’s useful in 
                 1. Absolute skewness = mean - mode
                 2. Realtive skewness:  
                               1. KARL PEARSON'S COEFFICIENT OF SKEWNESS
-                              2. BOWLEY;S COEFFICIENT OF SKEWNESS
+                              2. BOWLEY'S COEFFICIENT OF SKEWNESS
                               3. THE KELLY'S COEFFICIENT OF SKEWNESS ( not studied yet)
                               4. MEASURE OF SKEWNESS BASED ON THIRD MOMENT ***
 
+       1. Karl pearson coeff of skewness; is based on difference between mode and mean with respect to standard deviation... it varies for -3 to -3 (rarely greater than +1);
+       2. Bowley's coeff of skewness ; measure of skewness based on quartiles...; distance between q3 and median equal to q1 and median or [q3+q1 - 2median = 0 ]are equal then data is 
+                                      symmetrical  else skewed >0 then positvely and vice versa...it varies betweenn -1 to +1 ;
+        
 
 
 
