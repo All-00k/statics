@@ -1,0 +1,28 @@
+Skewness tells you how the data leans, not just where it sits. It’s useful in detecting outliers, data quality issues, or deciding if a normal distribution assumption is reasonable.
+
+  1. lets say we have 2 data sets whose mean and standard deviation is same but still there can be one data symmetrical and other data set unsymmertrical, in this case mean is not a good way to find the central value
+   so,
+      When data is asymmetrical we can say that median is a better measure of "central value"...
+      When data is symmetrical we can say mean is the better  measure of "central value"....
+
+  2. a plot can be 
+                  1. unskewed(symmetrical) : when mode = mean = median 
+                  2. positively skewed : when mean > mode
+                  3. negatively skewed : when mode  > mean
+
+  3. Why we check is data set skewed or not??
+        High skewness often means a few extreme values are pulling the data. Let say "a few people with very high income can skew the average salary upward." so it will be not best way to study data
+        So we need to check whether is data skewed or not.
+
+  4. We measure:
+                1. Absolute skewness = mean - mode
+                2. Realtive skewness:  
+                              1. KARL PEARSON'S COEFFICIENT OF SKEWNESS
+                              2. BOWLEY;S COEFFICIENT OF SKEWNESS
+                              3. THE KELLY'S COEFFICIENT OF SKEWNESS ( not studied yet)
+                              4. MEASURE OF SKEWNESS BASED ON THIRD MOMENT ***
+
+
+
+
+                            
