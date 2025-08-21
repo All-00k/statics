@@ -1,0 +1,25 @@
+expalaination: (moments describe how something is distributed relative to a center)
+
+
+
+
+
+
+# In statistics, a moment is a measure related to the shape of a distribution. Moments help describe the location, spread, skewness, and kurtosis of a data set.
+
+ # MOMENTS ABOUT ORIGIN
+  ----------------------
+------------->First moment (mean): Tells the central value of the data.
+
+------------->Second moment (variance): Tells the spread or dispersion from the mean.
+
+------------->Third moment (skewness): Tells the asymmetry of the data.
+
+------------->Fourth moment (kurtosis): Tells the "tailedness" (how heavy or light the tails are).
+
+
+# moments are calculated with respect to:
+1.moment about mean (𝜇 r)
+2.moment about origin (v r)
+3.moment about arbitary point (𝜇' r)
+
